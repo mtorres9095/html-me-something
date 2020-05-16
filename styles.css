@@ -1,6 +1,11 @@
+
+.img {
+    width: 800px;
+    height: 600px;
+}
 body{
-    color: white    
-    background-color:paleturquoise;
+    color: rgb(25, 146, 80) ;   
+    background-color: Yellow;
     font-size: 150%;
     font-family: 'Sacramento', cursive;
     margin: 5em 25%;
@@ -15,5 +20,5 @@ h2{
 }
 p {
   font-family: verdana;
-  font-size: 20px;
+  font-size: 25px;
 }
