@@ -4,11 +4,11 @@
     height: 600px;
 }
 body{
-    color: rgb(25, 146, 80) ;   
+    color: black;   
     background-color: rgb(125, 146, 150);
     font-size: 150%;
-    font-family: 'Sacramento', cursive;
-    margin: 5em 25%;
+    font-family: 'helvetica';
+    margin: 5em 10%;
  }
 
 h1 {
