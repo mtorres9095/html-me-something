@@ -1,4 +1,8 @@
 
+/* ul {
+  margin: 0;
+  padding: 0; */
+/* } */
 body{
     color: black;   
     background-color: rgb(125, 146, 150);
@@ -14,6 +18,11 @@ h1 {
 }
 h2{
     color: black
+}
+img{
+  border-radius: 10%;
+  width: 800;
+  height: 1500;
 }
 p {
   font-family: helvetica;
